@@ -1,0 +1,23 @@
+{
+  "name": "gql-tweetql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Msimusi/GQL-Tweetql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Msimusi/GQL-Tweetql/issues"
+  },
+  "homepage": "https://github.com/Msimusi/GQL-Tweetql#readme",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.6.0"
+  }
+}
